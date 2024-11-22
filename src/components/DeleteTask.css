@@ -1,0 +1,14 @@
+/* src/components/DeleteTask.css */
+.delete-task {
+  background-color: #ff4c4c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.delete-task:hover {
+  background-color: #ff1c1c;
+}

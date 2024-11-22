@@ -1,0 +1,23 @@
+.todo-app {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.todo-app h1 {
+  margin-bottom: 20px;
+}
+
+.todo-app ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-app li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}

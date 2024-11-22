@@ -1,0 +1,10 @@
+.mark-task {
+  cursor: pointer;
+  margin-right: 10px;
+  font-size: 1.5em;
+}
+
+.mark-task.completed {
+  text-decoration: none;
+  color: green;
+}
